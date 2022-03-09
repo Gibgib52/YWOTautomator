@@ -1,5 +1,5 @@
 """
-    Moves mouse to scroll for you in your world of text
+    Moves mouse to scroll for you in your world of text. use YWOTautomate instead
 """
 
 import mouse

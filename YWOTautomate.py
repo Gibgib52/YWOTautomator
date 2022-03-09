@@ -4,7 +4,6 @@
 
 import pyautogui
 
-width,height = PyAutoGui.size()
+width, height = pyautogui.size()
 
-print(width)
-print(height)
+pyautogui.moveTo(width/2, height/2,1)
